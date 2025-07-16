@@ -1,4 +1,4 @@
-Linux4Max library consists of the translations of some high quality plugins(mainly for dynamic processing and physical modeling) 
-that I have initially used on a linux audio setup. This collection of plugins derive from various developers: Faust library, Fons Andriaensen's plugins, Robin Gareus' plugins(with multichannel capabilities),K.S.Matheussen's radium compressor (with multichannel capabilities),and Zam plugins.
-The binaries only work for Windows, but I have included the source code if you wish to compile them for MacOS.
-Welcome for corrections and other contributions if you are interested.
+The Linux4Max library brings a selection of linux audio plugins (mainly focused on dynamic processing and physical modeling) into the Max/MSP environment.
+This collection of plugins derive from various developers, including the FAUST library, Fons Andriaensen's plugins, Robin Gareus' plugins (with multichannel support),K.S.Matheussen's radium compressor (with multichannel support),and Zam plugins collection.
+The binaries are currently availabler for Windows only, but I have included the source code for those who wish to compile them for MacOS.
+Contributions and corrections are welcome!
